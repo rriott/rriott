@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rriott
 - 👀 I’m interested in learning new stuff and better ways to do old stuff
-- 🌱 I’m currently learning about using Share Point with SQL Server
+- 🌱 I’m currently learning about using MS Flow
 - 💞️ I’m looking to collaborate on almost anything
 - 📫 How to reach me ??? via this portal
 
